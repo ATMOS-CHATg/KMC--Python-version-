@@ -1,0 +1,12 @@
+Temperature:270
+Total_occupancy:0.1
+System_size:8
+Iterations:10000
+Probe_amount:10
+Probe_size:32
+Structure:sI
+Guest:N2
+Mode:SO
+Vacancies:False
+Functional:vdWDF2
+Preset:local
